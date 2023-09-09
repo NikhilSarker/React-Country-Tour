@@ -1,6 +1,6 @@
 
-import './App.css'
-import Countries from './components/countries/Countries'
+import './App.css';
+import Countries from './components/countries/Countries';
 
 function App() {
 
@@ -8,6 +8,7 @@ function App() {
     <>
       <h1 className='text-3xl font-bold'>React Country Tour</h1>
       <Countries></Countries>
+      
     </>
   )
 }
